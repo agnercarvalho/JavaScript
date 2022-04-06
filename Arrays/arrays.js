@@ -20,4 +20,4 @@ newNames.push("Novo item");
 console.log(names);
 console.log(newNames);
 
-// Mesmo quando você copia arrays e adiciona algum valor no que foi criado, o novo valor é 
+// Mesmo quando você copia arrays e adiciona algum valor no que foi criado, o novo valor é atribuido também ao array que foi referenciado
