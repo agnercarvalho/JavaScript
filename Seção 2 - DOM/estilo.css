@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Arial', 'sans-serif';
+}
+
+.color{
+    color: red;
+    font-size: 50px;
+}
+
+.mainTitle{
+    transition: all 0.3s ease;
+}
+
+.fade{
+    opacity: 0;
+}
