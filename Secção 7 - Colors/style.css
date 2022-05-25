@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: rgb(51, 51, 51);
+}
+path, i, svg {
+    pointer-events: none;
+}
